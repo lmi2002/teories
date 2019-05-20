@@ -1,3 +1,5 @@
+import operator
+
 import requests
 
 from internal_api import setting
@@ -33,7 +35,7 @@ class InternalApi:
         return requests.get(setting.HOST)
 
 
-class D():
+class D(InternalApi):
     i = InternalApi()
 
     data = {
@@ -48,8 +50,22 @@ class D():
         )
     }
 
-    print(i.obj_json(data))
+    d = i.obj_json(data)
     response = i.api_request()
     cont = response.json()
-    print(cont)
-    print(i.get_elem_query(data))
+
+    def ghg(self, cont, dhk):
+        for el in cont.get('data'):
+            for k, v in el.items():
+                yield(k, v)
+                dhk()
+
+
+    def dhk(self, d, ghg):
+        for el in d:
+            for k, v in el.items():
+                yield(k, v)
+                ghg()
+
+    dhk(d, ghg)
+    ghg(cont, dhk)
