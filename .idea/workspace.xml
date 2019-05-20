@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="0357814c-d754-4315-a8be-9d42927b54ad" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="0357814c-d754-4315-a8be-9d42927b54ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file_4.py" afterDir="false" />
+    <list default="true" id="fe7b89cf-3cc7-4c2c-951a-b6254bc7a498" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/internal_api/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal_api/setting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal_api/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_api/api.py" afterDir="false" />
     </list>
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,63 +17,88 @@
     <session id="-21983091">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-<<<<<<< HEAD
           <entry key="project.closed" value="3" />
-=======
-          <entry key="project.closed" value="2" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-<<<<<<< HEAD
-          <entry key="git.branch.checkout.local" value="2" />
-=======
-          <entry key="git.branch.checkout.local" value="1" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-<<<<<<< HEAD
-          <entry key="py" value="8" />
-=======
-          <entry key="py" value="7" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
+          <entry key="iml" value="1" />
+          <entry key="py" value="11" />
+          <entry key="setting" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-<<<<<<< HEAD
-          <entry key="Python" value="8" />
-=======
-          <entry key="Python" value="7" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="797" />
-          <entry key="txt" value="19" />
+          <entry key="py" value="4255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="797" />
+          <entry key="Python" value="4255" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf />
-=======
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal_api/setting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/internal_api/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1558289985989" expanded="true" signature="71:76" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="89:90" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="90:94" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="113:122" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="562:637" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="673:682" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="729:756" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="751:756" ph="..." />
+                <marker date="1558289985989" expanded="true" signature="1135:1136" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal_api/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1558288416413" expanded="true" signature="27:28" ph="..." />
+                <marker date="1558288416413" expanded="true" signature="27:32" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,30 +107,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>```</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-<<<<<<< HEAD
-        <entry key="$PROJECT_DIR$" value="file_1" />
-=======
-        <entry key="$PROJECT_DIR$" value="master" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/file_2.py" />
-        <option value="$PROJECT_DIR$/file_1.py" />
-        <option value="$PROJECT_DIR$/file_3.py" />
-        <option value="$PROJECT_DIR$/file_4.py" />
+        <option value="$PROJECT_DIR$/internal_api/api_1.py" />
+        <option value="$PROJECT_DIR$/internal_api/setting.py" />
+        <option value="$PROJECT_DIR$/internal_api/db.py" />
+        <option value="$PROJECT_DIR$/internal_api/api.py" />
       </list>
     </option>
   </component>
@@ -118,28 +126,39 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="teories" type="b2602c69:ProjectViewProjectNode" />
-              <item name="teories" type="462c0819:PsiDirectoryNode" />
+              <item name="teories" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="teories" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="teories" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="internal_api" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Star\PycharmProjects\teories\internal_api" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_4">
-    <configuration name="file_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="teories" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/internal_api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/internal_api/api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,99 +194,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="teories" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="teories" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="file_4" type="PythonConfigurationType" factoryName="Python">
-=======
-    <configuration name="file_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
-      <module name="teories" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-<<<<<<< HEAD
-      <item itemvalue="Python.file_4" />
-      <item itemvalue="Python.file_1" />
-      <item itemvalue="Python.file_2" />
-      <item itemvalue="Python.file_3" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_3" />
-        <item itemvalue="Python.file_2" />
-        <item itemvalue="Python.file_1" />
-        <item itemvalue="Python.file_4" />
-=======
-      <item itemvalue="Python.file_1" />
-      <item itemvalue="Python.file_2" />
-      <item itemvalue="Python.file_3" />
-      <item itemvalue="Python.file_4" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.file_4" />
-        <item itemvalue="Python.file_3" />
-        <item itemvalue="Python.file_1" />
-        <item itemvalue="Python.file_2" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
+        <item itemvalue="Python.api" />
       </list>
     </recent_temporary>
   </component>
@@ -276,20 +205,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0357814c-d754-4315-a8be-9d42927b54ad" name="Default Changelist" comment="" />
-      <created>1557508651484</created>
+      <changelist id="fe7b89cf-3cc7-4c2c-951a-b6254bc7a498" name="Default Changelist" comment="" />
+      <created>1557828303091</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557508651484</updated>
+      <updated>1557828303091</updated>
     </task>
-    <task id="LOCAL-00001" summary="add file_1 &amp; File_2">
-      <created>1557670418738</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557670418738</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -304,11 +225,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -317,12 +234,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49925596" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,104 +247,76 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add file_1 &amp; File_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file_1 &amp; File_2" />
-  </component>
-<<<<<<< HEAD
-=======
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/file_3.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/file_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-<<<<<<< HEAD
-=======
-          <folding>
-            <marker date="1557513315210" expanded="true" signature="11:16" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="47:48" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="47:52" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="115:116" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="115:120" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="227:228" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="227:232" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="395:400" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="463:464" ph="..." />
-            <marker date="1557513315210" expanded="true" signature="463:468" ph="..." />
-          </folding>
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/teories.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1322117596/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="182" column="24" selection-start-line="182" selection-start-column="20" selection-end-line="182" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="2871" column="8" selection-start-line="2871" selection-start-column="8" selection-end-line="2871" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/file_4.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        <state relative-caret-position="116">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
-    <entry file="file://$PROJECT_DIR$/file_3.py">
+    <entry file="file://$PROJECT_DIR$/internal_api/setting" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="123">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file_1.py">
+    <entry file="file://$PROJECT_DIR$/internal_api/api_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
-<<<<<<< HEAD
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-=======
+        <state relative-caret-position="-27">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
           <folding>
-            <marker date="1557522437785" expanded="true" signature="47:52" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="106:111" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="170:171" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="292:297" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="331:336" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="407:412" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="455:460" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="537:538" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="537:542" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="622:624" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="622:627" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1004:1009" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1019:1024" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1077:1078" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1077:1082" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1274:1279" ph="..." />
-            <marker date="1557522437785" expanded="true" signature="1658:1663" ph="..." />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
->>>>>>> 0db197804ef5a672dd39e578e6d7265f734cd8e1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_api/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_api/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1558288416413" expanded="true" signature="27:28" ph="..." />
+            <marker date="1558288416413" expanded="true" signature="27:32" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_api/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1558289985989" expanded="true" signature="71:76" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="89:90" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="90:94" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="113:122" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="562:637" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="673:682" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="729:756" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="751:756" ph="..." />
+            <marker date="1558289985989" expanded="true" signature="1135:1136" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
